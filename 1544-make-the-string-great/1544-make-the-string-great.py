@@ -1,6 +1,6 @@
 class Solution:
     def makeGood(self, s: str) -> str:
-        a=s.lower()
+        
         stack=[]
         if s=="":
             return s
