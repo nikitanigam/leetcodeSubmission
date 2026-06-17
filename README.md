@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1544-make-the-string-great) |
 ## Array
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
