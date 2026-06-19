@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
 | [1544-make-the-string-great](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
