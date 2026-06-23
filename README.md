@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0875-koko-eating-bananas) |
 ## Matrix
