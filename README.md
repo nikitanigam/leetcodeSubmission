@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
@@ -87,10 +88,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
