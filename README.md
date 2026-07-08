@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
+| [0946-validate-stack-sequences](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0946-validate-stack-sequences) |
 | [1544-make-the-string-great](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0875-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
