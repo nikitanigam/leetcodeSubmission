@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
