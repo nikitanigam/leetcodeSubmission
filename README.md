@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0496-next-greater-element-i) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
