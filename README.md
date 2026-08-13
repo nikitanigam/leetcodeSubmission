@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
