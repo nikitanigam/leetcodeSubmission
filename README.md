@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [1544-make-the-string-great](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
