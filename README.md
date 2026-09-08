@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikitanigam/leetcodeSubmission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikitanigam/leetcodeSubmission/tree/master/2073-time-needed-to-buy-tickets) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikitanigam/leetcodeSubmission/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
