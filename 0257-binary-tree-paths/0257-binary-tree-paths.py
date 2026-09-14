@@ -21,4 +21,3 @@ class Solution:
             func(root.right,s)
         func(root,"")
         return ans 
-
